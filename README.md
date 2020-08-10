@@ -5,16 +5,6 @@ Hi there, 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🔭 I’m currently working on Netease.
 - 🌱 I’m currently learning java and kotlin.
 - 👯 I’m looking to collaborate on something fun and cool!
@@ -23,5 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 1460300366@qq.com .
 - 😄 Pronouns: I am an open source enthusiast.
 - ⚡ Hobbies: table tennis, badminton, painting, skateboard, reading etc.
+-->
 
-![PetterObam's github stats](https://github-readme-stats.vercel.app/api?username=petterobam&show_icons=true)
+
+
+![PetterObam's github stats](https://github-readme-stats.vercel.app/api?username=petterobam&show_icons=true&theme=tokyonight&hide=stars,commits,issues,contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
