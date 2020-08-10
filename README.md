@@ -15,7 +15,7 @@ Hi there, 👋
 
 
 
-![PetterObam's github stats](https://github-readme-stats.vercel.app/api?username=petterobam&show_icons=true&theme=tokyonight&hide=prs)
+![PetterObam's github stats](https://github-readme-stats.vercel.app/api?username=petterobam&show_icons=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petterobam&layout=compact)
 
 <!--
