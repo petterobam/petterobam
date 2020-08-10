@@ -16,7 +16,7 @@ Hi there, 👋
 
 
 ![PetterObam's github stats](https://github-readme-stats.vercel.app/api?username=petterobam&show_icons=true&theme=tokyonight&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=JavaScript,HTML,TypeScript,CSS,GLSL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petterobam&layout=compact)
 
 <!--
 添加更多自定义 Pin，不仅限于 6 个
