@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-![PetterObam's github stats](https://github-readme-stats.vercel.app/api?username=petterobam&show_icons=true&theme=tokyonight&hide=stars,commits,issues,contribs)
-
+![PetterObam's github stats](https://github-readme-stats.vercel.app/api?username=petterobam&show_icons=true&theme=tokyonight&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
