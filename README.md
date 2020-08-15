@@ -17,6 +17,9 @@ Hi there, 👋
 
 ![PetterObam's github stats](https://github-readme-stats.vercel.app/api?username=petterobam&show_icons=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petterobam&layout=compact)
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/petterobam/count.svg" />
+</p>
 
 <!--
 添加更多自定义 Pin，不仅限于 6 个
