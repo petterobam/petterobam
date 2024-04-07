@@ -17,7 +17,7 @@ Hi there, 👋
   <img src="https://profile-counter.glitch.me/petterobam/count.svg" />
 </p>
 
-# 我最近在忙于搭建个人工作室
+# 我最近在忙于AI生产开发实践
 
 [Zero2You Studio ｜ 无何有工作室](https://www.zero2you.tech/)
 
