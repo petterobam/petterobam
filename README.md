@@ -17,13 +17,13 @@
 
 > An open-source personal finance desktop app that helps you achieve financial freedom in 3 stages: **Security → Stability → Freedom**
 
-[![CI](https://img.shields.io/github/actions/workflow_status/petterobam/wealth-freedom/ci.yml?style=flat-square)](https://github.com/petterobam/wealth-freedom/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/petterobam/wealth-freedom/ci.yml?style=flat-square)](https://github.com/petterobam/wealth-freedom/actions)
 [![Release](https://img.shields.io/github/v/release/petterobam/wealth-freedom?style=flat-square)](https://github.com/petterobam/wealth-freedom/releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://github.com/petterobam/wealth-freedom)
 
 **Tech Stack**: Electron · Vue 3 · TypeScript · SQLite · ECharts
 
-**29 features**: Dashboard · Transactions · Budgets · Goals · Investments · AI Advisor · Big Screen · PDF Reports · Multi-currency · i18n (中/EN)
+**29 features** · **Mac + Linux + Windows** · **中/EN i18n** · **AI Advisor** · **Open Source (MIT)**
 
 ⭐ **Star it if you find it useful!** → [github.com/petterobam/wealth-freedom](https://github.com/petterobam/wealth-freedom)
 
